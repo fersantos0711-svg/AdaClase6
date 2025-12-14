@@ -1,3 +1,4 @@
  resolucion Pikachu
 Persona A olvido guardar la modificacion y no podiamos actualizar el caso, presionamos guardar mandamos al repo y se sincronizo
 Resolucion bombon
+usando git merge pudimos sincronizar ambos cambios
